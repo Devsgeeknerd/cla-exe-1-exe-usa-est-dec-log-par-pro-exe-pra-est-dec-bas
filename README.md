@@ -19,6 +19,17 @@ Caso não seja permitido exiba:
 
 [Resolução.](main.ts)
 
+* **Boas práticas**:
+  * Nomes significativos para variáveis:
+    * 'idadePessoa' é claro e descritivo.
+  * Uso de if-else:
+    * Organiza as condições de forma clara.
+    * Mensagens de saída claras e informativas.
+
+* **Sugestões de melhoria**:
+  * Pode ser útil encapsular essa lógica em uma função para reutilização.
+  * Adicionar validações para garantir que 'idadePessoa' seja um número.
+
 <!-- Informações -->
 ## &#8505; Informações
 
