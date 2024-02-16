@@ -11,27 +11,33 @@ A idade já está atribuída à variável `idadePessoa`.
 
 Se a pessoa tiver a idade permitida retorne a mensagem:
 
-* Você pode entrar na montanha-russa, Divirta-se!
+* “Você pode entrar na montanha-russa, Divirta-se!”
 
 Caso não seja permitido exiba:
 
-* Desculpe, você precisa ter pelo menos 18 anos para entrar na montanha-russa.
+* “Desculpe, você precisa ter pelo menos 18 anos para entrar na montanha-russa.”
 
 [Resolução.](main.ts)
 
 > [!IMPORTANT]\
 > **Boas práticas**:
 >
-> * Nomes significativos para variáveis:
->   * 'idadePessoa' é claro e descritivo.
-> * Uso de if-else:
->   * Organiza as condições de forma clara.
-> * Mensagens de saída claras e informativas.
->
+> * Uso de nomes significativos para variáveis:
+>   * “idadePessoa” é claro e descritivo.
+> * Comentários concisos e claros para explicar a lógica.
+
+> [!WARNING]\
 > **Sugestões de melhoria**:
 >
-> * Pode ser útil encapsular essa lógica em uma função para reutilização.
-> * Adicionar validações para garantir que 'idadePessoa' seja um número.
+> * Se o código for reutilizado em vários lugares, considerar encapsular a lógica em uma função.
+> * Certificar-se de que as mensagens impressas são adequadas ao contexto da aplicação.
+> * Adicionar validações adicionais, se necessário, como garantir que “idadePessoa” seja um número válido.
+
+> [!NOTE]\
+> **Observações**:
+>
+> * Este código é simples e direto, seguindo boas práticas.
+> * O uso de mensagens amigáveis para o usuário é uma prática positiva.
 
 <!-- Informações -->
 ## &#8505; Informações
